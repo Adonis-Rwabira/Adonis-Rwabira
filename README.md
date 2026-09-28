@@ -13,7 +13,7 @@
   <a href="mailto:adonisbitigaywa@gmail.com">
     <img src="https://img.shields.io/badge/Email-adonisbitigaywa%40gmail.com-0284c7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/adonis-rwabira">
+  <a href="https://linkedin.com/in/adonis-rwabira-a615272a4">
     <img src="https://img.shields.io/badge/LinkedIn-Adonis%20Rwabira-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Goma%2C%20DR%20Congo-1e293b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -29,10 +29,6 @@
 > *"A computer should save us time, not force us to speak its language."* — **Donald A. Norman**
 
 Software Engineer and Solutions Architect specialized in **fault-tolerant distributed backends** and **neuro-symbolic systems**. My engineering approach rejects both unverified probabilistic models (pure LLM hallucinations) and impenetrable, rigid mathematical engines that construct usability barriers for end-users.
-
-I design architectures founded on **Cognitive Load Inversion**:
-* **System 1 (Intuitive & Semantic):** Large Language Models (LLMs) parsing ambiguous human intentions, orchestrating agents, and generating structural scheduling proposals.
-* **System 2 (Deterministic & Verifiable):** Constraint Satisfaction Problem (CSP) solvers using **Google OR-Tools (CP-SAT)** in C++ to guarantee 100% hard constraint enforcement through active repair and Hamming distance warm-starts.
 
 ---
 
@@ -93,14 +89,58 @@ I design architectures founded on **Cognitive Load Inversion**:
 
 ---
 
-### 3. Architectural & Technical Competency Matrix
+### 3. Architectural & Technical Competencies
 
-* **Paradigms & Architecture:** Neuro-Symbolic AI, Distributed Microservices, Domain-Driven Design (DDD), Hexagonal Architecture, UML / Merise Modeling, Agile / Scrum.
-* **Backend Systems:** Python 3.11+ (FastAPI, Django), TypeScript / Node.js (NestJS, Express), C# (.NET), PHP.
-* **AI & Operational Research:** Google OR-Tools (CP-SAT Solver), LLM-Modulo Frameworks, Google Gemini API, Prompt Engineering.
-* **Databases, Cache & Streaming:** PostgreSQL 16+ (Advanced JSONB, Indexing), Redis (Pub/Sub, Distributed Locking, SSE), MySQL, Firebase (Firestore, Storage).
-* **Frontend & Mobile:** React 18, Next.js, TailwindCSS, Jotai, Dart, Flutter.
-* **Systems, Tooling & DevOps:** Git, GitHub Actions (CI/CD Pipelines), Linux Environments.
+<p><strong>Architecture & Design Patterns</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Architecture-Neuro--Symbolic_AI-6366F1?style=flat-square" alt="Neuro-symbolic"/>
+  <img src="https://img.shields.io/badge/Pattern-Microservices-1E40AF?style=flat-square" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Design-DDD_%26_Hexagonal-0284C7?style=flat-square" alt="DDD"/>
+  <img src="https://img.shields.io/badge/Methodology-UML_%26_Merise-475569?style=flat-square" alt="UML"/>
+  <img src="https://img.shields.io/badge/Process-Agile_Scrum-059669?style=flat-square" alt="Scrum"/>
+</p>
+
+<p><strong>Backend Engineering</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+<p><strong>AI & Operations Research</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Google_OR--Tools-CP--SAT-EA4335?style=flat-square&logo=google&logoColor=white" alt="OR-Tools"/>
+  <img src="https://img.shields.io/badge/Framework-LLM--Modulo-7C3AED?style=flat-square" alt="LLM-Modulo"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-API-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Discipline-Prompt_Engineering-F59E0B?style=flat-square" alt="Prompt Engineering"/>
+</p>
+
+<p><strong>Databases, Caching & Streaming</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-16+_(JSONB)-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/Redis-Pub%2FSub_%26_Lock-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-Firestore_%26_Storage-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+<p><strong>Frontend & Mobile</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/React_18-TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+<p><strong>DevOps & Tooling</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
@@ -116,15 +156,18 @@ I design architectures founded on **Cognitive Load Inversion**:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%"/>
-
-<br/><br/>
-
+<!-- CARTE STREAK SANS HEROKU -->
 <img src="https://streak-stats.demolab.com/?user=Adonis-Rwabira&theme=tokyonight&hide_border=true&background=0b0f19&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8" alt="GitHub Streak" width="100%"/>
+
+<br/><br/>
+
+<!-- CARTE STATISTIQUES (ENDPOINT HAUTE DISPONIBILITÉ) -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
+
+<br/><br/>
+
+<!-- CARTE LANGAGES (ENDPOINT HAUTE DISPONIBILITÉ) -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%"/>
 
 </div>
 
@@ -132,11 +175,9 @@ I design architectures founded on **Cognitive Load Inversion**:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a365d&height=100&section=footer" width="100%" alt="Footer"/>
-
 <p><b>Open for Software Architecture consultancies, Lead Backend opportunities, and Mission-Critical AI implementations.</b></p>
 
-<a href="https://linkedin.com/in/adonis-rwabira">
+<a href="https://linkedin.com/in/adonis-rwabira-a615272a4">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Profile"/>
 </a>
 
