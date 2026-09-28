@@ -10,10 +10,13 @@
 </a>
 
 <p align="center">
+  <a href="https://adonis-rwabira.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-adonis--rwabira.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=0f172a" alt="Web Portfolio"/>
+  </a>
   <a href="mailto:adonisbitigaywa@gmail.com">
     <img src="https://img.shields.io/badge/Email-adonisbitigaywa%40gmail.com-0284c7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/adonis-rwabira-a615272a4">
+  <a href="https://linkedin.com/in/adonis-rwabira-a615272a4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Adonis%20Rwabira-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Goma%2C%20DR%20Congo-1e293b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -156,17 +159,17 @@ Software Engineer and Solutions Architect specialized in **fault-tolerant distri
 
 <div align="center">
 
-<!-- CARTE STREAK SANS HEROKU -->
+<!-- STREAK CARD (DEMOLAB MIRROR) -->
 <img src="https://streak-stats.demolab.com/?user=Adonis-Rwabira&theme=tokyonight&hide_border=true&background=0b0f19&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8" alt="GitHub Streak" width="100%"/>
 
 <br/><br/>
 
-<!-- CARTE STATISTIQUES (ENDPOINT HAUTE DISPONIBILITÉ) -->
+<!-- GENERAL STATS CARD (FAST MIRROR) -->
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
 
 <br/><br/>
 
-<!-- CARTE LANGAGES (ENDPOINT HAUTE DISPONIBILITÉ) -->
+<!-- TOP LANGUAGES CARD (FAST MIRROR) -->
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%"/>
 
 </div>
@@ -177,8 +180,13 @@ Software Engineer and Solutions Architect specialized in **fault-tolerant distri
 
 <p><b>Open for Software Architecture consultancies, Lead Backend opportunities, and Mission-Critical AI implementations.</b></p>
 
-<a href="https://linkedin.com/in/adonis-rwabira-a615272a4">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Profile"/>
-</a>
+<p align="center">
+  <a href="https://adonis-rwabira.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_Interactive_Portfolio-1A365D?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Web Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/adonis-rwabira-a615272a4" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Profile"/>
+  </a>
+</p>
 
 </div>
