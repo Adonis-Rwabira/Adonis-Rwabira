@@ -12,8 +12,8 @@ export const portfolioData: PortfolioData = {
     maritalStatus: "identity.maritalStatus",
     birthDate: "identity.birthDate",
     degree: "identity.degree",
-    profilePhoto: "/images/profile.jpg",
-    signaturePhoto: "/images/signature.jpg",
+    profilePhoto: "images/profile.jpg",
+    signaturePhoto: "images/signature.jpg",
     socials: {
       github: "https://github.com/Adonis-Rwabira",
       linkedin: "https://linkedin.com/in/adonis-rwabira-a615272a4",
@@ -117,7 +117,7 @@ export const portfolioData: PortfolioData = {
       ],
       technologies: ["Gemini Flash", "Google OR-Tools", "Python", "FastAPI", "Markdown"],
       media: [
-        { type: 'diagram', url: '/diagrams/muda-architecture.svg' }
+        { type: 'diagram', url: 'diagrams/muda-architecture.svg' }
       ],
       githubUrl: "https://github.com/Adonis-Rwabira/Muda"
     },
@@ -214,7 +214,7 @@ export const portfolioData: PortfolioData = {
       date: "awards.colloque.date",
       badge: "awards.colloque.badge",
       description: ["awards.colloque.description"],
-      certificateImage: "/images/cert-colloque.jpg"
+      certificateImage: "images/cert-colloque.jpg"
     },
     {
       title: "awards.gesi.title",
@@ -222,7 +222,7 @@ export const portfolioData: PortfolioData = {
       date: "awards.gesi.date",
       badge: "awards.gesi.badge",
       description: ["awards.gesi.description"],
-      certificateImage: "/images/cert-gesi.jpg"
+      certificateImage: "images/cert-gesi.jpg"
     },
     {
       title: "awards.a2sv.title",
@@ -230,7 +230,7 @@ export const portfolioData: PortfolioData = {
       date: "awards.a2sv.date",
       badge: "awards.a2sv.badge",
       description: ["awards.a2sv.description"],
-      certificateImage: "/images/cert-a2sv.jpg"
+      certificateImage: "images/cert-a2sv.jpg"
     }
   ],
   skills: [
