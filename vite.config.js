@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/adonis-rwabira/',
+  base: '/Adonis-Rwabira/',
   plugins: [
     react(),
     tailwindcss(),
