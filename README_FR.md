@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Adonis%20Rwabira-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Localisation-Goma%2C%20RDC-1e293b?style=flat-square&logo=googlemaps&logoColor=white" alt="Localisation"/>
-  <img src="https://img.shields.io/badge/Dipl%C3%B4me-Licence%20en%20G%C3%A9nie%20Informatique%20(ULPGL)-059669?style=flat-square" alt="Diplôme"/>
+  <img src="https://img.shields.io/badge/Dipl%C3%B4me-Licence%20en%20G%C3%A9nie%20Informatique%-059669?style=flat-square" alt="Diplôme"/>
 </p>
 
 </div>
@@ -31,7 +31,7 @@
 
 > *« L’ordinateur a été inventé pour nous faire gagner du temps, pas pour nous forcer à apprendre son langage. »* — **Donald A. Norman**
 
-Ingénieur logiciel et architecte de solutions spécialisé dans les **systèmes backend distribués et tolérants aux pannes** et les **architectures hybrides neuro-symboliques**. Ma démarche refuse le dogme du « tout-LLM » probabiliste et sujet aux hallucinations, ainsi que la rigidité des solveurs d'optimisation classiques qui créent un mur d'utilisabilité pour le gestionnaire humain.
+Ingénieur logiciel et architecte de solutions spécialisé dans les **systèmes backend distribués et tolérants aux pannes** et les **architectures hybrides neuro-symboliques**.
 
 ---
 
