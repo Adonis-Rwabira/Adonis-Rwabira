@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <a href="https://adonis-rwabira.github.io" target="_blank">
+  <a href="https://Adonis-Rwabira.github.io/Adonis-Rwabira" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-adonis--rwabira.github.io-38bdf8?style=flat-square&logo=googlechrome&logoColor=0f172a" alt="Web Portfolio"/>
   </a>
   <a href="mailto:adonisbitigaywa@gmail.com">
@@ -179,7 +179,7 @@ Software Engineer and Solutions Architect specialized in **fault-tolerant distri
 <p><b>Open for Software Architecture consultancies, Lead Backend opportunities, and Mission-Critical AI implementations.</b></p>
 
 <p align="center">
-  <a href="https://adonis-rwabira.github.io" target="_blank">
+  <a href="https://Adonis-Rwabira.github.io/Adonis-Rwabira" target="_blank">
     <img src="https://img.shields.io/badge/Explore_Interactive_Portfolio-1A365D?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Web Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/adonis-rwabira-a615272a4" target="_blank">

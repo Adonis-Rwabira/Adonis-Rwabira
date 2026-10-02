@@ -17,7 +17,7 @@ export const portfolioData: PortfolioData = {
     socials: {
       github: "https://github.com/Adonis-Rwabira",
       linkedin: "https://linkedin.com/in/adonis-rwabira-a615272a4",
-      portfolio: "https://adonis-rwabira.github.io",
+      portfolio: "https://Adonis-Rwabira.github.io/Adonis-Rwabira",
     },
     manifesto: "identity.manifesto",
   },
