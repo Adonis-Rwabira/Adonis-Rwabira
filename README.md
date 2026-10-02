@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Adonis%20Rwabira-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Goma%2C%20DR%20Congo-1e293b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Degree-B.Sc.%20in%20Software%20Engineering%20(ULPGL)-059669?style=flat-square" alt="Degree"/>
+  <img src="https://img.shields.io/badge/Degree-B.Sc.%20in%20Software%20Engineering%20-059669?style=flat-square" alt="Degree"/>
 </p>
 
 </div>
@@ -31,7 +31,7 @@
 
 > *"A computer should save us time, not force us to speak its language."* — **Donald A. Norman**
 
-Software Engineer and Solutions Architect specialized in **fault-tolerant distributed backends** and **neuro-symbolic systems**. My engineering approach rejects both unverified probabilistic models (pure LLM hallucinations) and impenetrable, rigid mathematical engines that construct usability barriers for end-users.
+Software Engineer and Solutions Architect specialized in **fault-tolerant distributed backends** and **neuro-symbolic systems**.
 
 ---
 
