@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "fullName": "Adonis Rwabira",
+    "headline": "Lead Backend & Chercheur en IA Neuro-Symbolique",
+    "subheadline": "Architecturer l'Inversion Cognitive : Intuition Sémantique & Rigueur Déterministe.",
+    "degree": "Licencié en Génie Informatique - ULPGL",
+    "manifesto": "Ingénieur logiciel diplômé en Génie Informatique (ULPGL). Je conçois des backends résilients, des architectures microservices tolérantes aux pannes et des moteurs hybrides alliant la créativité des LLM aux garanties mathématiques absolues des solveurs de contraintes (Google OR-Tools).",
+    "maritalStatus": "Célibataire",
+    "birthDate": "7 Avril 2003"
+  },
+  "status": "Disponible",
+  "status_details": "Disponible pour Missions d'Architecture & Lead Backend",
+  "nav": {
+    "vision": "Vision",
+    "projects": "Projets",
+    "experience": "Parcours",
+    "research": "Recherche",
+    "skills": "Expertise",
+    "references": "Références",
+    "contact": "Contact",
+    "githubTitle": "Voir le profil GitHub"
+  },
+  "buttons": {
+    "explore_projects": "Explorer les Projets Phares",
+    "download_resume": "Télécharger le CV (A4 PDF)",
+    "print_cv": "Imprimer CV (A4)"
+  },
+  "theme": {
+    "toggle": "Basculer le thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "hero": {
+    "badge": "Lead Backend & Chercheur en IA Neuro-Symbolique",
+    "title": "Architecturer l'Inversion Cognitive :",
+    "titleHighlight": "Intuition Sémantique",
+    "titleEnd": "& Rigueur Déterministe.",
+    "degree": "Licencié en Génie Informatique — ULPGL",
+    "promotion": "Promotion 2026",
+    "description": "Ingénieur logiciel diplômé en Génie Informatique (ULPGL). Je conçois des backends résilients, des architectures microservices tolérantes aux pannes et des moteurs hybrides alliant la créativité des LLM aux garanties mathématiques absolues des solveurs de contraintes (Google OR-Tools).",
+    "ctaProjects": "Explorer les Projets Phares",
+    "ctaDownload": "Télécharger le CV (A4 PDF)",
+    "key_skills": "Compétences Clés",
+    "skill_ai": "IA & RO",
+    "skill_backend": "Backend",
+    "skill_security": "Sécurité",
+    "tech_stack": "Stack Technique"
+  },
+  "projects_section": {
+    "title": "Systèmes Critiques & Études de Cas",
+    "subtitle": "Démonstrations grandeur nature d'ingénierie et de recherche",
+    "description": "Systèmes à haute disponibilité, optimisation combinatoire NP-difficile et cybersécurité forensique en production.",
+    "featured_project": "Projet Star / Mémoire ULPGL"
+  },
+  "experience_section": {
+    "title": "Expérience & Gouvernance Technique",
+    "subtitle": "Trajectoire professionnelle & responsabilités d'ingénierie"
+  },
+  "research_section": {
+    "title": "Recherche, Impact & Distinctions",
+    "subtitle": "Distinctions académiques, hackathons et publications"
+  },
+  "skills_section": {
+    "title": "Arsenal Technique & Strates",
+    "subtitle": "Compétences structurées par strate d'architecture"
+  },
+  "references_section": {
+    "title": "Références Professionnelles Vérifiables",
+    "subtitle": "Contacts directs de gouvernance et de direction"
+  },
+  "contact_section": {
+    "title": "Contact",
+    "subtitle": "Entrons en contact.",
+    "email": {
+      "title": "Email"
+    },
+    "linkedin": {
+      "title": "LinkedIn"
+    },
+    "github": {
+      "title": "GitHub"
+    }
+  },
+  "experiences": {
+    "synoorg_academy": {
+      "role": "Lead Développeur Backend",
+      "period": "Juillet 2026 – Présent",
+      "location": "Goma, RDC • Management technique & architecture distribuée",
+      "achievements": [
+        "Supervision directe de 3 ingénieurs backend.",
+        "Définition des standards d'architecture microservices sous NestJS, revue rigoureuse de Pull Requests et mise en place de la gouvernance CI/CD."
+      ]
+    },
+    "liegmann": {
+      "role": "Architecte Logiciel",
+      "period": "2024 – Présent (En cours)",
+      "location": "Système de gestion académique intégré",
+      "achievements": [
+        "Conception architecturale et modélisation de base de données achevées.",
+        "Développement de l'API Django REST et du client React pour l'administration des parcours et frais scolaires."
+      ]
+    },
+    "wte": {
+      "role": "Consultant Développeur Fullstack",
+      "period": "Mission continue",
+      "location": "Solutions sur mesure JavaScript / Node.js & intégration systèmes",
+      "achievements": [
+        "Conseil sur divers projets JS/Node.js.",
+        "Implémentation de modules fonctionnels complexes, garantissant la performance et la scalabilité des applications."
+      ]
+    },
+    "vzone": {
+      "role": "Développeur Fullstack",
+      "period": "Novembre 2024",
+      "location": "Projet Fintech Muhangiki Wallet",
+      "achievements": [
+        "Développement de bout en bout de la plateforme \"Muhangiki Wallet\".",
+        "Implémentation de la logique métier critique pour l'épargne, le crédit et l'historique des transactions."
+      ]
+    },
+    "popolli": {
+      "role": "Développeur Web Freelance",
+      "period": "Août – Sep 2025",
+      "location": "Portail humanitaire & CMS institutionnel",
+      "achievements": [
+        "Conception et déploiement du site web institutionnel pour accroître la visibilité internationale.",
+        "Mise en place d'un CMS personnalisé sous WordPress, permettant l'autonomie de l'équipe pour les mises à jour."
+      ]
+    },
+    "synoorg_community": {
+      "role": "Développeur Backend & Stagiaire",
+      "period": "Janvier 2026 – Février 2026",
+      "location": "Infrastructure & Backend Core",
+      "achievements": [
+        "Modélisation et implémentation intégrale de 3 modules applicatifs haute concurrence avec gestion fine des files de messages Redis et persistance PostgreSQL."
+      ]
+    }
+  },
+  "projects": {
+    "muda": {
+      "title": "Muda : Assistant d'Horaires Neuro-Symbolique",
+      "subtitle": "Résolution Hybride d'un Défi Combinatoire NP-Difficile",
+      "shortDescription": "Modélisation du casse-tête de la planification universitaire en contexte congolais (double vacation matin/soir, professeurs vacataires partagés, pénurie aiguë de salles).",
+      "problemStatement": "Les universités en RDC font face à un problème de planification complexe, avec des contraintes multiples et souvent contradictoires, rendant la création manuelle d'horaires sujette à des erreurs et des inefficacités.",
+      "architectureSolution": "Une approche hybride Système 1 / Système 2. Le Système 1 (LLM Gemini Flash) interprète les contraintes en langage naturel et les traduit en une représentation structurée. Le Système 2 (Google OR-Tools CP-SAT) utilise cette représentation pour trouver une solution optimale, garantissant le respect de toutes les contraintes dures.",
+      "metrics": {
+        "0": { "label": "Créneaux planifiés" },
+        "1": { "label": "Temps CPU total" },
+        "2": { "label": "Coût inférence" },
+        "3": { "label": "0 conflit (36/36)" }
+      }
+    },
+    "synoorg": {
+      "title": "Écosystème Synoorg : Architecture Microservices NestJS",
+      "subtitle": "Architecture Distribuée & Leadership Technique",
+      "shortDescription": "Supervision de 3 ingénieurs backend pour Synoorg Academy. Découpage modulaire microservices sous NestJS avec patterns Clean Architecture, queues asynchrones Redis et base PostgreSQL partitionnée.",
+      "problemStatement": "La plateforme Synoorg Academy nécessitait une architecture capable de gérer une forte charge, de permettre une évolution rapide et indépendante des fonctionnalités, et de garantir une haute disponibilité.",
+      "architectureSolution": "Une architecture microservices basée sur NestJS, avec une communication asynchrone via Redis Streams. Chaque service est déployé dans un conteneur Docker, orchestré par Kubernetes, garantissant une scalabilité et une résilience optimales."
+    },
+    "antimayundo": {
+      "title": "AntiMayundo.exe : Neutralisation Mémoire et Restauration",
+      "shortDescription": "Utilitaire d'intervention d'urgence en C# pour neutraliser le ver « Mayundo » infectant les supports amovibles sur le campus ULPGL. Arrêt du processus en RAM et restauration NTFS."
+    },
+    "muhangiki": {
+      "title": "Muhangiki Wallet",
+      "shortDescription": "Plateforme pour microfinance : gestion crédits, épargne sécurisée et traçabilité d'audit."
+    },
+    "devsai": {
+      "title": "Devs_AI_Agents",
+      "shortDescription": "Framework SDLC autonome par agents spécialisés et prompts chaînés."
+    },
+    "tkinter": {
+      "title": "TkinterDesigner",
+      "shortDescription": "Studio visuel WYSIWYG générant du code source Python propre."
+    }
+  },
+  "awards": {
+    "colloque": {
+      "title": "Colloque International ULPGL",
+      "badge": "Orateur Scientifique",
+      "date": "Juillet 2025",
+      "description": "Communication scientifique sur l'Application de gestion de l'émission carbone devant une assemblée de chercheurs internationaux."
+    },
+    "gesi": {
+      "title": "Hackathon GESI (RTI Tech)",
+      "badge": "1er Prix - Vainqueur",
+      "date": "Novembre 2024",
+      "description": "Projet SQUIMA : Correction automatisée et infalsifiable de copies universitaires via IA hors-ligne."
+    },
+    "a2sv": {
+      "title": "A2SV AI for Impact Hackathon",
+      "badge": "Quart de Finaliste",
+      "date": "Juillet 2024",
+      "description": "Compétition panafricaine sponsorisée par Google. Sélection parmi plus de 1 100 équipes du continent africain."
+    }
+  },
+  "skills": {
+    "architecture": {
+      "category": "Architectures & Méthodes",
+      "skills": "IA Neuro-Symbolique, Microservices distribués, DDD, Clean Architecture, Merise & UML, Agile Scrum."
+    },
+    "backend": {
+      "category": "Backend Core & Systèmes",
+      "skills": "Python (FastAPI, Django REST), TypeScript (NestJS, Node.js), C# (.NET Framework, API Win32), PHP moderne."
+    },
+    "ai": {
+      "category": "IA & Recherche Opérationnelle",
+      "skills": "Google OR-Tools (Solveur CP-SAT), Framework LLM-Modulo, Prompt Engineering Avancé, API Gemini, PyTest, Benchmarking formel."
+    },
+    "data": {
+      "category": "Données, Cache & Streaming",
+      "skills": "PostgreSQL 16+ (colonnes JSONB & indexes avancés), Redis (Pub/Sub, Distributed Lock), MySQL, Firebase."
+    },
+    "frontend": {
+      "category": "Frontend & Interfaces",
+      "skills": "React 18, Next.js, Tailwind CSS, Jotai, Flutter / Dart pour applications mobiles cross-platform."
+    },
+    "devops": {
+      "category": "DevOps & Sécurité",
+      "skills": "Docker, Git / GitHub Actions, Reverse Engineering, Memory Forensics, Sécurisation des endpoints API."
+    }
+  },
+  "references": {
+    "zelote": { "name": "Ir Jean Zélote", "title": "Référence WTE & Secrétaire à l'ULPGL / Goma" },
+    "rwabira": { "name": "Mr Moise Rwabira", "title": "Agent Humanitaire, Réf. ONG POPOLLI Fratelli RDC" },
+    "gregoire": { "name": "Mr Grégoire", "title": "Secrétaire Général, Groupe Scolaire LIEGMANN" },
+    "ajuamungu": { "name": "Prof. Ajuamungu", "title": "Professeur d'Enseignement Supérieur & Recherche" }
+  },
+  "interests": {
+    "religion": "Religion et spiritualité",
+    "tutoring": "Partage de connaissances (Tutorat)",
+    "tech_watch": "Veille technologique (IA & Backend)",
+    "travel": "Voyages"
+  },
+  "print": {
+    "profile_alt": "Photo de profil de Adonis Rwabira",
+    "executive_summary_title": "Profil Exécutif",
+    "professional_experience_title": "Expériences Professionnelles",
+    "technologies": "Téchnologies",
+    "awards_and_conferences_title": "Prix et Conférences",
+    "academic_projects_title": "Projets Académiques",
+    "domain": "Domaine",
+    "personal_information_title": "Informations Personnelles",
+    "birth_date": "Date de naissance",
+    "nationality": "Nationalité",
+    "marital_status": "État civil",
+    "technical_skills_title": "Compétences Techniques",
+    "education_title": "Éducation",
+    "ongoing": "(En cours)",
+    "university": "Université Libre des Pays des Grands Lacs (ULPGL), Goma",
+    "specialization": "Spécialisation en Conception de Systèmes d'Information et Génie Logiciel",
+    "languages_title": "Langues",
+    "swahili": "Swahili",
+    "swahili_level": "Langue maternelle",
+    "french": "Français",
+    "french_level": "Courant",
+    "english": "Anglais",
+    "english_level": "Professionnel",
+    "interests_title": "Centres d'intérêt",
+    "references_title": "Références",
+    "signature_alt": "Signature de Adonis Rwabira",
+    "made_in": "Fait à Goma, le",
+    "locale": "fr-FR"
+  },
+  "AI_RESEARCH": "RECHERCHE OPÉRATIONNELLE & IA",
+  "DISTRIBUTED_BACKEND": "ARCHITECTURE DISTRIBUÉE & LEADERSHIP TECH",
+  "SYSTEMS_SECURITY": "INGÉNIERIE SYSTÈME & CYBERSÉCURITÉ",
+  "FINTECH_DEVTOOLS": "FINTECH & OUTILS DÉVELOPPEURS",
+  "details": "Détails"
+}
