@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Adonis%20Rwabira-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Localisation-Goma%2C%20RDC-1e293b?style=flat-square&logo=googlemaps&logoColor=white" alt="Localisation"/>
-  <img src="https://img.shields.io/badge/Dipl%C3%B4me-Licence%20en%20G%C3%A9nie%20Informatique%-059669?style=flat-square" alt="Diplôme"/>
+  <img src="https://img.shields.io/badge/Dipl%C3%B4me-Licence%20en%20G%C3%A9nie%20Informatique-059669?style=flat-square" alt="Diplôme"/>
 </p>
 
 </div>
