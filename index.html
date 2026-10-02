@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr" class="scroll-smooth">
 <head>
@@ -25,31 +26,28 @@
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
   <style>
-    /* Custom Scrollbar */
-    ::-webkit-scrollbar { width: 8px; }
-    ::-webkit-scrollbar-track { background: #F1F5F9; }
-    .dark ::-webkit-scrollbar-track { background: #0B0F19; }
-    ::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 4px; }
-    .dark ::-webkit-scrollbar-thumb { background: #1E293B; border-radius: 4px; }
-    ::-webkit-scrollbar-thumb:hover { background: #0284C7; }
-
     /* Print Style Directives */
     @media print {
-      @page { size: A4 portrait; margin: 8mm 10mm 8mm 10mm; }
-      body { background-color: #FFFFFF !important; color: #0F172A !important; font-size: 9.5pt !important; line-height: 1.35 !important; }
-      .no-print, header, #modal-case-study, .web-interactive-only, footer, #floating-tools { display: none !important; }
+      @page { size: A4 portrait; margin: 0; }
+      body {
+        margin: 0;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      .no-print { display: none !important; }
       .print-only { display: block !important; }
-      .print-container { width: 100% !important; max-width: 100% !important; margin: 0 !important; padding: 0 !important; }
-      a { text-decoration: none !important; color: inherit !important; }
-      .page-break-avoid { page-break-inside: avoid !important; break-inside: avoid !important; }
     }
-    @media screen { .print-only { display: none !important; } }
+
+    /* Web-specific styles to hide print view */
+    @media screen {
+        .print-only { display: none; }
+    }
   </style>
 </head>
-<body class="bg-slate-50 dark:bg-[#0B0F19] text-slate-800 dark:text-slate-300 transition-colors duration-200 antialiased selection:bg-sky-500 selection:text-white">
+<body class="bg-slate-50 dark:bg-[#0B0F19] text-slate-800 dark:text-slate-300 transition-colors duration-200 antialiased selection:bg-sky-500 selection:text-white font-sans">
   <div id="root"></div>
   <script type="module" src="/src/main.tsx"></script>
 </body>

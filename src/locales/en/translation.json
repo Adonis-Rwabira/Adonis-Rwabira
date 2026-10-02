@@ -4,12 +4,12 @@
     "headline": "Software Engineer & AI Solutions Architect",
     "subheadline": "Architecting Cognitive Inversion: Semantic Intuition & Deterministic Rigor.",
     "degree": "B.Sc. in Computer Engineering - ULPGL",
-    "manifesto": "Computer Engineering graduate (ULPGL). I design resilient backends, fault-tolerant microservice architectures, and hybrid engines coupling LLM semantic reasoning with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
+    "manifesto": "As a Computer Engineering graduate from ULPGL, I design resilient backends, fault-tolerant microservices architectures, and hybrid engines that combine the creativity of LLMs with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
     "maritalStatus": "Single",
     "birthDate": "April 7, 2003"
   },
   "status": "Available",
-  "status_details": "Available for Architecture & Lead Backend missions",
+  "status_details": "Available for Architecture & Lead Backend Missions",
   "nav": {
     "vision": "Vision",
     "projects": "Projects",
@@ -22,7 +22,7 @@
   },
   "buttons": {
     "explore_projects": "Explore Flagship Projects",
-    "download_resume": "Download Resume (A4 PDF)",
+    "download_resume": "Download CV (A4 PDF)",
     "print_cv": "Print CV (A4)"
   },
   "theme": {
@@ -36,11 +36,11 @@
     "title": "Software Engineer & AI Solutions Architect",
     "titleHighlight": "",
     "titleEnd": "",
-    "degree": "B.Sc. in Computer Engineering - ULPGL",
+    "degree": "B.Sc. in Computer Engineering — ULPGL",
     "promotion": "Class of 2026",
-    "description": "Architecting Cognitive Inversion: Semantic Intuition & Deterministic Rigor. I design resilient backends, fault-tolerant microservice architectures, and hybrid engines coupling LLM semantic reasoning with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
+    "description": "Architecting Cognitive Inversion: Semantic Intuition & Deterministic Rigor. I design resilient backends, fault-tolerant microservices architectures, and hybrid engines that blend the creativity of LLMs with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
     "ctaProjects": "Explore Flagship Projects",
-    "ctaDownload": "Download Resume (A4 PDF)",
+    "ctaDownload": "Download CV (A4 PDF)",
     "key_skills": "Key Skills",
     "skill_ai": "AI & OR",
     "skill_backend": "Backend",
@@ -49,25 +49,25 @@
   },
   "projects_section": {
     "title": "Mission-Critical Systems & Case Studies",
-    "subtitle": "Full-scale engineering & research demonstrations",
-    "description": "High availability systems, NP-hard combinatorial optimization, and forensic cybersecurity in production.",
+    "subtitle": "Full-scale demonstrations of engineering and research",
+    "description": "High-availability systems, NP-hard combinatorial optimization, and forensic cybersecurity in production.",
     "featured_project": "Flagship Project / ULPGL Thesis"
   },
   "experience_section": {
     "title": "Experience & Technical Governance",
-    "subtitle": "Career trajectory & engineering leadership"
+    "subtitle": "Professional trajectory & engineering responsibilities"
   },
   "research_section": {
     "title": "Research, Impact & Awards",
-    "subtitle": "Academic honors, hackathons & publications"
+    "subtitle": "Academic honors, hackathons, and publications"
   },
   "skills_section": {
     "title": "Technical Arsenal & Layers",
-    "subtitle": "Skills structured across architectural layers"
+    "subtitle": "Skills structured by architectural layer"
   },
   "references_section": {
     "title": "Verifiable Professional References",
-    "subtitle": "Direct governance and leadership contacts"
+    "subtitle": "Direct contacts for governance and leadership"
   },
   "contact_section": {
     "title": "Contact",
@@ -86,34 +86,34 @@
     "synoorg_academy": {
       "role": "Lead Backend Developer",
       "period": "July 2026 – Present",
-      "location": "Goma, DRC • Technical Management & Distributed Architecture",
+      "location": "Goma, DRC • Technical management & distributed architecture",
       "achievements": [
         "Direct supervision of 3 backend engineers.",
-        "Definition of NestJS microservices architecture standards, rigorous Pull Request reviews, and CI/CD governance implementation."
+        "Definition of NestJS microservices architecture standards, rigorous Pull Request reviews, and implementation of CI/CD governance."
       ]
     },
     "liegmann": {
       "role": "Software Architect",
       "period": "2024 – Present (Ongoing)",
-      "location": "Integrated Academic Management System",
+      "location": "Integrated academic management system",
       "achievements": [
-        "Architectural design and database modeling completed.",
-        "Development of the Django REST API and React client for academic and financial administration."
+        "Completed architectural design and database modeling.",
+        "Development of the Django REST API and React client for managing academic records and fees."
       ]
     },
     "wte": {
       "role": "Fullstack Developer Consultant",
-      "period": "Ongoing Mission",
+      "period": "Ongoing mission",
       "location": "Custom JavaScript / Node.js solutions & systems integration",
       "achievements": [
-        "Provided consulting on various JS/Node.js projects.",
-        "Implemented complex functional modules, ensuring performance and scalability."
+        "Consulting on various JS/Node.js projects.",
+        "Implementation of complex functional modules, ensuring application performance and scalability."
       ]
     },
     "vzone": {
       "role": "Fullstack Developer",
       "period": "November 2024",
-      "location": "Muhangiki Wallet Fintech Project",
+      "location": "Fintech Project Muhangiki Wallet",
       "achievements": [
         "End-to-end development of the \"Muhangiki Wallet\" platform.",
         "Implementation of critical business logic for savings, credit, and transaction history."
@@ -121,29 +121,29 @@
     },
     "popolli": {
       "role": "Freelance Web Developer",
-      "period": "Aug – Sep 2025",
-      "location": "Humanitarian Portal & Institutional CMS",
+      "period": "August – Sep 2025",
+      "location": "Humanitarian portal & institutional CMS",
       "achievements": [
-        "Designed and deployed the institutional website to increase international visibility.",
-        "Implemented a custom CMS with WordPress, enabling team autonomy for content updates."
+        "Design and deployment of the institutional website to increase international visibility.",
+        "Implementation of a custom CMS under WordPress, allowing the team to autonomously perform updates."
       ]
     },
     "synoorg_community": {
       "role": "Backend Developer & Intern",
       "period": "January 2026 – February 2026",
-      "location": "Infrastructure & Backend Core",
+      "location": "Infrastructure & Core Backend",
       "achievements": [
-        "Full modeling and implementation of 3 high-concurrency application modules with fine-grained Redis message queue management and PostgreSQL persistence."
+        "Modeling and full implementation of 3 high-concurrency application modules with fine-grained management of Redis message queues and PostgreSQL persistence."
       ]
     }
   },
   "projects": {
     "muda": {
-      "title": "Muda: Neuro-Symbolic Scheduling Assistant",
-      "subtitle": "Hybrid Solving of an NP-Hard Combinatorial Problem",
-      "shortDescription": "Modeling the university scheduling puzzle in the Congolese context (morning/evening double shifts, shared adjunct professors, acute shortage of rooms).",
-      "problemStatement": "Universities in the DRC face a complex scheduling problem, with multiple and often conflicting constraints, making manual timetable creation prone to errors and inefficiencies.",
-      "architectureSolution": "A hybrid System 1 / System 2 approach. System 1 (LLM Gemini Flash) interprets natural language constraints and translates them into a structured representation. System 2 (Google OR-Tools CP-SAT) uses this representation to find an optimal solution, guaranteeing compliance with all hard constraints.",
+      "title": "Muda: Neuro-Symbolic Timetable Assistant",
+      "subtitle": "Hybrid-Solving an NP-Hard Combinatorial Challenge",
+      "shortDescription": "Modeling the university scheduling puzzle in the Congolese context (morning/evening double shifts, shared adjunct faculty, acute classroom shortages).",
+      "problemStatement": "Universities in the DRC face a complex scheduling problem with multiple, often conflicting constraints, making manual timetable creation prone to errors and inefficiencies.",
+      "architectureSolution": "A hybrid System 1 / System 2 approach. System 1 (LLM Gemini Flash) interprets natural language constraints and translates them into a structured representation. System 2 (Google OR-Tools CP-SAT) uses this representation to find an optimal solution, ensuring all hard constraints are met.",
       "metrics": {
         "0": { "label": "Scheduled slots" },
         "1": { "label": "Total CPU time" },
@@ -154,25 +154,25 @@
     "synoorg": {
       "title": "Synoorg Ecosystem: NestJS Microservices Architecture",
       "subtitle": "Distributed Architecture & Tech Leadership",
-      "shortDescription": "Supervision of 3 backend engineers for Synoorg Academy. Modular microservices setup under NestJS with Clean Architecture, asynchronous Redis queues, and a partitioned PostgreSQL database.",
+      "shortDescription": "Supervision of 3 backend engineers for Synoorg Academy. Modular microservices breakdown under NestJS with Clean Architecture patterns, asynchronous Redis queues, and a partitioned PostgreSQL database.",
       "problemStatement": "The Synoorg Academy platform required an architecture capable of handling high load, allowing for rapid and independent feature evolution, and ensuring high availability.",
       "architectureSolution": "A microservices architecture based on NestJS, with asynchronous communication via Redis Streams. Each service is deployed in a Docker container, orchestrated by Kubernetes, ensuring optimal scalability and resilience."
     },
     "antimayundo": {
-        "title": "AntiMayundo.exe: Memory Neutralization & Disk Restore",
-        "shortDescription": "Emergency recovery tool in C# designed to halt the \"Mayundo\" worm epidemic on removable media across the ULPGL campus. RAM process kill and NTFS restore."
+      "title": "AntiMayundo.exe: Memory Neutralization and Restoration",
+      "shortDescription": "Emergency response utility in C# to neutralize the \"Mayundo\" worm infecting removable drives on the ULPGL campus. Kills the process in RAM and restores NTFS attributes."
     },
     "muhangiki": {
-        "title": "Muhangiki Wallet",
-        "shortDescription": "Microfinance platform: credit management, secure savings, and audit trail."
+      "title": "Muhangiki Wallet",
+      "shortDescription": "Microfinance platform: credit management, secure savings, and audit trail."
     },
     "devsai": {
-        "title": "Devs_AI_Agents",
-        "shortDescription": "Autonomous SDLC framework with specialized agents and chained prompts."
+      "title": "Devs_AI_Agents",
+      "shortDescription": "Autonomous SDLC framework with specialized agents and chained prompts."
     },
     "tkinter": {
-        "title": "TkinterDesigner",
-        "shortDescription": "Visual WYSIWYG studio generating clean Python source code."
+      "title": "TkinterDesigner",
+      "shortDescription": "Visual WYSIWYG studio that generates clean Python source code."
     }
   },
   "awards": {
@@ -186,7 +186,7 @@
       "title": "GESI Hackathon (RTI Tech)",
       "badge": "1st Prize - Winner",
       "date": "November 2024",
-      "description": "SQUIMA Project: Automated and unforgeable correction of university papers via offline AI."
+      "description": "SQUIMA Project: Automated and tamper-proof correction of university exams via offline AI."
     },
     "a2sv": {
       "title": "A2SV AI for Impact Hackathon",
@@ -229,9 +229,9 @@
   },
   "interests": {
     "religion": "Religion and spirituality",
-    "tutoring": "Knowledge Sharing (Tutoring)",
-    "tech_watch": "Technological Watch (AI & Backend)",
-    "travel": "Traveling"
+    "tutoring": "Knowledge sharing (Tutoring)",
+    "tech_watch": "Technological watch (AI & Backend)",
+    "travel": "Travel"
   },
   "print": {
     "profile_alt": "Profile picture of Adonis Rwabira",
@@ -242,9 +242,9 @@
     "academic_projects_title": "Academic Projects",
     "domain": "Domain",
     "personal_information_title": "Personal Information",
-    "birth_date": "Birth Date",
+    "birth_date": "Date of birth",
     "nationality": "Nationality",
-    "marital_status": "Marital Status",
+    "marital_status": "Marital status",
     "technical_skills_title": "Technical Skills",
     "education_title": "Education",
     "ongoing": "(Ongoing)",
@@ -252,7 +252,7 @@
     "specialization": "Specialization in Information Systems Design and Software Engineering",
     "languages_title": "Languages",
     "swahili": "Swahili",
-    "swahili_level": "Native speaker",
+    "swahili_level": "Native language",
     "french": "French",
     "french_level": "Fluent",
     "english": "English",
@@ -260,7 +260,7 @@
     "interests_title": "Interests",
     "references_title": "References",
     "signature_alt": "Signature of Adonis Rwabira",
-    "made_in": "Made in Goma, on",
+    "made_in": "Done in Goma, on",
     "locale": "en-US"
   },
   "AI_RESEARCH": "OPERATIONS RESEARCH & AI",

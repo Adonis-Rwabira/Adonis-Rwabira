@@ -85,7 +85,7 @@ Software Engineer and Solutions Architect specialized in **fault-tolerant distri
 
 <br/>
 
-#### <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" align="center"/> TkinterDesigner — Desktop GUI Rapid Prototyper
+#### <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" align="center"/> [TkinterDesigner](https://github.com/Adonis-Rwabira/Tk_Designer) — Desktop GUI Rapid Prototyper
 *Developer Tooling*
 * Visual WYSIWYG drag-and-drop designer generating clean, maintainable Python Tkinter GUI layouts.
 * **Stack:** Python, Tkinter, AST Code Generation.
@@ -160,15 +160,15 @@ Software Engineer and Solutions Architect specialized in **fault-tolerant distri
 <div align="center">
 
 <!-- STREAK CARD (DEMOLAB MIRROR) -->
-<img src="https://streak-stats.demolab.com/?user=Adonis-Rwabira&theme=tokyonight&hide_border=true&background=0b0f19&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8" alt="GitHub Streak" width="40%"/>
+<img src="https://streak-stats.demolab.com/?user=Adonis-Rwabira&theme=tokyonight&hide_border=true&background=0b0f19&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8" alt="GitHub Streak" height="165"/>
 
 <!-- GENERAL STATS CARD (FAST MIRROR) -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" width="40%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" height="165"/>
 
 <br/><br/>
 
 <!-- TOP LANGUAGES CARD (FAST MIRROR) -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="80%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="60%"/>
 
 </div>
 
