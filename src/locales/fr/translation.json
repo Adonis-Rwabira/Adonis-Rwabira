@@ -1,7 +1,7 @@
 {
   "identity": {
     "fullName": "Adonis Rwabira",
-    "headline": "Lead Backend & Chercheur en IA Neuro-Symbolique",
+    "headline": "Ingénieur Logiciel & Architecte de Solutions IA",
     "subheadline": "Architecturer l'Inversion Cognitive : Intuition Sémantique & Rigueur Déterministe.",
     "degree": "Licencié en Génie Informatique - ULPGL",
     "manifesto": "Ingénieur logiciel diplômé en Génie Informatique (ULPGL). Je conçois des backends résilients, des architectures microservices tolérantes aux pannes et des moteurs hybrides alliant la créativité des LLM aux garanties mathématiques absolues des solveurs de contraintes (Google OR-Tools).",
@@ -33,12 +33,12 @@
   },
   "hero": {
     "badge": "Lead Backend & Chercheur en IA Neuro-Symbolique",
-    "title": "Architecturer l'Inversion Cognitive :",
-    "titleHighlight": "Intuition Sémantique",
-    "titleEnd": "& Rigueur Déterministe.",
+    "title": "Ingénieur Logiciel & Architecte de Solutions IA",
+    "titleHighlight": "",
+    "titleEnd": "",
     "degree": "Licencié en Génie Informatique — ULPGL",
     "promotion": "Promotion 2026",
-    "description": "Ingénieur logiciel diplômé en Génie Informatique (ULPGL). Je conçois des backends résilients, des architectures microservices tolérantes aux pannes et des moteurs hybrides alliant la créativité des LLM aux garanties mathématiques absolues des solveurs de contraintes (Google OR-Tools).",
+    "description": "Architecturer l'Inversion Cognitive : Intuition Sémantique & Rigueur Déterministe. Je conçois des backends résilients, des architectures microservices tolérantes aux pannes et des moteurs hybrides alliant la créativité des LLM aux garanties mathématiques absolues des solveurs de contraintes (Google OR-Tools).",
     "ctaProjects": "Explorer les Projets Phares",
     "ctaDownload": "Télécharger le CV (A4 PDF)",
     "key_skills": "Compétences Clés",
@@ -267,5 +267,5 @@
   "DISTRIBUTED_BACKEND": "ARCHITECTURE DISTRIBUÉE & LEADERSHIP TECH",
   "SYSTEMS_SECURITY": "INGÉNIERIE SYSTÈME & CYBERSÉCURITÉ",
   "FINTECH_DEVTOOLS": "FINTECH & OUTILS DÉVELOPPEURS",
-  "details": "Détails"
+  "details": "Voir le projet"
 }

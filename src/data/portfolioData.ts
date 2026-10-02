@@ -136,7 +136,8 @@ export const portfolioData: PortfolioData = {
       metrics: [],
       technologies: ["NestJS", "TypeScript", "Redis Streams", "PostgreSQL", "Docker", "Clean Architecture"],
       media: [],
-      liveUrl: "https://synoorg.com/"
+      liveUrl: "https://synoorg-academy.com/",
+      documentUrl: "https://community.synoorg.com/"
     },
     {
       id: "antimayundo",
@@ -168,7 +169,8 @@ export const portfolioData: PortfolioData = {
       architectureSolution: "",
       metrics: [],
       technologies: ["Python", "Django REST", "PostgreSQL"],
-      media: []
+      media: [],
+      liveUrl: "https://muhangikiwallet.com/"
     },
     {
       id: "devsai",
@@ -201,7 +203,8 @@ export const portfolioData: PortfolioData = {
       architectureSolution: "",
       metrics: [],
       technologies: ["Python", "Tkinter", "AST"],
-      media: []
+      media: [],
+      githubUrl: "https://github.com/Adonis-Rwabira/Tk_Designer"
     }
   ],
   conferencesAndAwards: [

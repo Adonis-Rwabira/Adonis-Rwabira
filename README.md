@@ -160,17 +160,15 @@ Software Engineer and Solutions Architect specialized in **fault-tolerant distri
 <div align="center">
 
 <!-- STREAK CARD (DEMOLAB MIRROR) -->
-<img src="https://streak-stats.demolab.com/?user=Adonis-Rwabira&theme=tokyonight&hide_border=true&background=0b0f19&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8" alt="GitHub Streak" width="100%"/>
-
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=Adonis-Rwabira&theme=tokyonight&hide_border=true&background=0b0f19&stroke=38bdf8&ring=6366f1&fire=38bdf8&currStreakNum=ffffff&sideNums=94a3b8" alt="GitHub Streak" width="40%"/>
 
 <!-- GENERAL STATS CARD (FAST MIRROR) -->
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Adonis-Rwabira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="GitHub Stats" width="40%"/>
 
 <br/><br/>
 
 <!-- TOP LANGUAGES CARD (FAST MIRROR) -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adonis-Rwabira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="80%"/>
 
 </div>
 

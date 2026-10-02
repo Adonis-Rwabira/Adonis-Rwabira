@@ -1,7 +1,7 @@
 {
   "identity": {
     "fullName": "Adonis Rwabira",
-    "headline": "Lead Backend & Neuro-Symbolic AI Researcher",
+    "headline": "Software Engineer & AI Solutions Architect",
     "subheadline": "Architecting Cognitive Inversion: Semantic Intuition & Deterministic Rigor.",
     "degree": "B.Sc. in Computer Engineering - ULPGL",
     "manifesto": "Computer Engineering graduate (ULPGL). I design resilient backends, fault-tolerant microservice architectures, and hybrid engines coupling LLM semantic reasoning with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
@@ -33,12 +33,12 @@
   },
   "hero": {
     "badge": "Lead Backend & Neuro-Symbolic AI Researcher",
-    "title": "Architecting Cognitive Inversion:",
-    "titleHighlight": "Semantic Intuition",
-    "titleEnd": "& Deterministic Rigor.",
+    "title": "Software Engineer & AI Solutions Architect",
+    "titleHighlight": "",
+    "titleEnd": "",
     "degree": "B.Sc. in Computer Engineering - ULPGL",
     "promotion": "Class of 2026",
-    "description": "Computer Engineering graduate (ULPGL). I design resilient backends, fault-tolerant microservice architectures, and hybrid engines coupling LLM semantic reasoning with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
+    "description": "Architecting Cognitive Inversion: Semantic Intuition & Deterministic Rigor. I design resilient backends, fault-tolerant microservice architectures, and hybrid engines coupling LLM semantic reasoning with the absolute mathematical guarantees of constraint solvers (Google OR-Tools).",
     "ctaProjects": "Explore Flagship Projects",
     "ctaDownload": "Download Resume (A4 PDF)",
     "key_skills": "Key Skills",
@@ -267,5 +267,5 @@
   "DISTRIBUTED_BACKEND": "DISTRIBUTED ARCHITECTURE & TECH LEADERSHIP",
   "SYSTEMS_SECURITY": "SYSTEMS ENGINEERING & CYBERSECURITY",
   "FINTECH_DEVTOOLS": "FINTECH & DEV TOOLS",
-  "details": "Details"
+  "details": "View project"
 }
